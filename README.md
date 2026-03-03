@@ -37,24 +37,12 @@ An intelligent AI-driven restaurant ordering assistant built using **n8n**, **Op
 This project demonstrates how **LLMs + workflow automation** can create real-world business solutions for restaurants, cloud kitchens, and small food businesses.
 
 ---
-
-## 🎬 Demo (Animated)
-
-> Replace the paths below with your actual GIFs/screenshots.
-
-<p align="center">
-  <img src="assets/demo-telegram.gif" alt="Telegram ordering demo (GIF)" width="420" />
-  <img src="assets/workflow-overview.gif" alt="n8n workflow overview (GIF)" width="420" />
-</p>
-
-<details>
   <summary><b>📸 More screenshots</b></summary>
   <br />
   <p align="center">
-    <img src="assets/telegram-chat.png" alt="Telegram conversation screenshot" width="420" />
-    <img src="assets/n8n-workflow.png" alt="n8n workflow screenshot" width="420" />
+    <img src="Screenshots/Screenshot%202026-03-03%20135449.png" alt="Telegram conversation screenshot" width="420" />
+    <img src="Screenshots/Screenshot%202026-03-03%20135501.png" alt="n8n workflow screenshot" width="420" />
   </p>
-</details>
 
 ---
 
@@ -99,12 +87,6 @@ Tools:
         ↓
 Telegram Send Message
 ```
-
-Optional diagram (recommended):
-
-<p align="center">
-  <img src="assets/architecture.png" alt="Architecture Diagram" width="900" />
-</p>
 
 ---
 
@@ -214,9 +196,9 @@ Building real-world AI systems with LLMs.
 
 ---
 
-## ⭐ If You Like This Project
+⭐ If you found this project helpful, give it a **star**!
 
-Give it a **star** ⭐ and connect with me on LinkedIn!
+🔗 Let's connect on [LinkedIn](https://www.linkedin.com/in/nileshpar835/)
 
 ---
 
